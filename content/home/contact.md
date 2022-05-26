@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: dullecd@mail.uc.edu
@@ -38,23 +38,27 @@ content:
     latitude: '37.4275'
     longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin
       icon_pack: fab
       name: Connect with me
       link: 'https://www.linkedin.com/in/chad-dulle-96074a235/'
-    - icon: twitter
-      icon_pack: fab
+    - icon: address-card
+      icon_pack: fas
       name: Univeristy of Cincinnati Profile
       link: 'https://business.uc.edu/faculty-and-research/departments/finance/research/phd-students/chadwick-dulle.html'
-    # - icon: video
-      # icon_pack: fas
-      # name: Zoom Me
-      # link: 'https://zoom.com'
+    - icon: github
+      icon_pack: fab
+      name: GitHub Page
+      link: 'https://github.com/chadwick24'
+    - icon: cv
+      icon_pack: ai
+      name: Curriculum Vitae
+      link: 'https://zoom.com'
 
 design:
   columns: '2'
