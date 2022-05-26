@@ -41,16 +41,20 @@ content:
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  # appointment_url: 'https://calendly.com'
   contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: Connect with me
+      link: 'https://www.linkedin.com/in/chad-dulle-96074a235/'
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Univeristy of Cincinnati Profile
+      link: 'https://business.uc.edu/faculty-and-research/departments/finance/research/phd-students/chadwick-dulle.html'
+    # - icon: video
+      # icon_pack: fas
+      # name: Zoom Me
+      # link: 'https://zoom.com'
 
 design:
   columns: '2'
