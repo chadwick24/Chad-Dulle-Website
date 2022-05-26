@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Chad Dulle'
+    notice: '© Created by Chad Dulle {year}'
     license:
       enable: true
       allow_derivatives: false
