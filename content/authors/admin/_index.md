@@ -3,21 +3,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD - Finance
+    institution: University of Cincinnati
+    year: 2024 (expected)
+  - course: MA - Economics 
+    institution: Miami University
+    year: 2017
+  - course: BSBA - Economics and Finance (double major)
+    institution: Xavier University
+    year: 2013
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fintech
+- Cryptocurrency
+- Social Finance
+- Behavioral Finance
+- Executive Characteristics
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
