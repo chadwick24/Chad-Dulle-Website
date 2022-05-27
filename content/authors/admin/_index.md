@@ -22,9 +22,9 @@ interests:
 - Executive Characteristics
 - Corporate Finance
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Cincinnati
+  url: https://www.uc.edu/
+role: PhD Candidate in Finance
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Chad Dulle
 ---
 Welcome to my website! My name is Chad Dulle and I am a PhD candidate in finance at the University of Cincinnati. I am currently working on my dissertation and plan to be on the job market in 2023. If you would like to connect and learn more, please feel free to contact me.
 
