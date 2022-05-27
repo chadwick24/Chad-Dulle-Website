@@ -43,4 +43,4 @@ title: Chad Dulle
 ---
 Welcome to my website! My name is Chad Dulle and I am a PhD candidate in finance at the University of Cincinnati. I am currently working on my dissertation and plan to be on the job market in 2023. If you would like to connect and learn more, please feel free to contact me.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/myCV.pdf" "newtab" >}}CV{{< /staticref >}}.
