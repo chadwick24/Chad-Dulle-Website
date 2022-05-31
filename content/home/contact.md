@@ -55,10 +55,10 @@ content:
       icon_pack: fab
       name: GitHub Page
       link: 'https://github.com/chadwick24'
-    - icon: cv
-      icon_pack: ai
-      name: Curriculum Vitae
-      link: 'https://zoom.com'
+    # - icon: cv
+    #   icon_pack: ai
+    #   name: Curriculum Vitae
+    #   link: 'https://zoom.com'
 
 design:
   columns: '2'
