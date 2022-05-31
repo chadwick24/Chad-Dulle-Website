@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Working Papers
-    url: '#posts'
-    weight: 20
-  - name: Teaching
-    url: '#experience'
-    weight: 30
+  # - name: Working Papers
+  #   url: '#posts'
+  #   weight: 20
+  # - name: Teaching
+  #   url: '#experience'
+  #   weight: 30
   # - name: Professional Experience
   #   url: '#talks'
   #   weight: 40
