@@ -4,7 +4,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: PhD - Finance
-    institution: University of Cincinnati
+    institution: University of Cincinnatiiiii
     year: 2024 (expected)
   - course: MA - Economics 
     institution: Miami University
